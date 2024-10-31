@@ -13,7 +13,7 @@ CHALLENGE
 - If the password is less than 5 characters, log out "Your password is too short!".
 */
 
-/////////////
+//////////
 
 //the paramteres will be used to check the following ...
 //passwordMatches
