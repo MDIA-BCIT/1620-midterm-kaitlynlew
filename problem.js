@@ -15,7 +15,7 @@ CHALLENGE
 
 //////////
 
-//the paramteres will be used to check the following ...
+//the parameters will be used to check the following ...
 //passwordMatches
 //passwordDoesNotMatch
 //userForgotPassword
